@@ -6,10 +6,10 @@
   "description": "Tether USD (USDT) is a stablecoin pegged to the US dollar, running on the TRON blockchain with price oracle integration.",
   "website": "https://tetherx.foundation",
   "email": "tetherx.foundation@gmail.com",
-  "github": "https://github.com/tetherx-foundation/usdt-oracle-token",
+  "github": "https://github.com/Yasinshiravand/usdt-oracle-token",
   "whitepaper": "https://tetherx.foundation/whitepaper.pdf",
+  "logo": "https://raw.githubusercontent.com/Yasinshiravand/usdt-oracle-token/main/logo.png",
   "social": {
-    "twitter": "https://twitter.com/tetherxofficial",
     "telegram": "https://t.me/tetherx"
   }
 }
