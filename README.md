@@ -16,3 +16,4 @@ This is a simulation of a USD-pegged token named **Tether USD (USDT)**.
 
 > **Note:** This project is for educational and simulation purposes.
 
+📄 [دانلود وایت‌پیپر (Whitepaper)](https://github.com/Yasinshiravand/usdt-oracle-token/blob/main/USDT_Whitepaper_TRON.pdf)
